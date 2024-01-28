@@ -12,7 +12,7 @@ Install the required Python module using:
 
 bash
 Copy code
-pip install wifi
+pip install pywifi
 Usage
 Clone the repository:
 
@@ -30,8 +30,8 @@ Follow the on-screen instructions to enter the Wi-Fi SSID and password.
 Example
 python
 Copy code
-# Import the wifi module
-import wifi
+# Import the pywifi module
+import pywifi
 
 # Input Wi-Fi credentials
 ssid = input("Enter Wi-Fi SSID: ")
