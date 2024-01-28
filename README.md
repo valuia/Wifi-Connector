@@ -1,4 +1,5 @@
 Wi-Fi Connector in Python
+https://github.com/valuia/Wifi-Connector/blob/main/wificonnector.py
 
 Description
 
@@ -17,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/valuia/wificonnector.py
+git clone https://github.com/valuia/Wifi-Connector/blob/main/wificonnector.py
 cd wificonnector-python
 Run the script:
 
