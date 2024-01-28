@@ -1,5 +1,7 @@
 Wi-Fi Connector in Python
+
 Description
+
 This Python script allows you to connect to a Wi-Fi network by providing the necessary credentials, including the Wi-Fi name (SSID) and password. It utilizes the wifi module to simplify the process of connecting to Wi-Fi networks.
 
 Prerequisites
@@ -15,8 +17,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/wifi-connector-python.git
-cd wifi-connector-python
+git clone https://github.com/valuia/wificonnector.py
+cd wificonnector-python
 Run the script:
 
 bash
